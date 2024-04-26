@@ -1,4 +1,4 @@
-# MuscleJ
+# MuscleJ macro: version no longer maintained and outdated
 
 Thank you for your interest in our development MuscleJ which, we hope, will be useful to the scientific community.
 
