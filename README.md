@@ -1,4 +1,4 @@
-# MuscleJ macro: version no longer maintained and outdated
+# MuscleJ: version no longer maintained and outdated!!!! Please use the new MuscleJ2 plugin
 
 Thank you for your interest in our development MuscleJ which, we hope, will be useful to the scientific community.
 
